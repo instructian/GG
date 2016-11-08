@@ -20,4 +20,10 @@ Abstract: Spectral sensitivity functions S(lambda) of single photoreceptor cells
 
 ` http://www.jneurosci.org/content/30/37/12219.long
 
-[INFRARED: THE NEXT GENERATION IN COLONY MANAGEMENT](http://www.beeculture.com/infrared-the-next-generation-in-colony-management/)
+Infrared: The Next Generation In Colony Management. (2015, December 21). Retrieved November 7, 2016, from http://www.beeculture.com/infrared-the-next-generation-in-colony-management/
+
+Peitsch, D., Fietz, A., Hertel, H., de Souza, J., Ventura, D. F., & Menzel, R. (1992). The spectral input systems of hymenopteran insects and their receptor-based colour vision. Journal of Comparative Physiology A, 170(1), 23-40.
+
+Kohno, K., Sokabe, T., Tominaga, M., & Kadowaki, T. (2010). Honey bee thermal/chemical sensor, AmHsTRPA, reveals neofunctionalization and loss of transient receptor potential channel genes. The Journal of Neuroscience, 30(37), 12219-12229.
+
+Insect Vision  - http://cronodon.com/BioTech/Insect_Vision.html
